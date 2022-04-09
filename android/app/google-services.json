@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680888935135",
+    "project_id": "chi-application-10896",
+    "storage_bucket": "chi-application-10896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680888935135:android:c23e26e76a399adae3ff6a",
+        "android_client_info": {
+          "package_name": "com.example.chi_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680888935135-hn16ajt5i852j713qqo4qmnv06lifs1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chi_application",
+            "certificate_hash": "e2789f0b24f0d0b0274dc2aa0816bef588418618"
+          }
+        },
+        {
+          "client_id": "680888935135-jg4s0bml0gkr7aapvnna2m74qrjt541f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiEKV8saeA08e5n_iijlLYjqJ2ElrUna4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680888935135-jg4s0bml0gkr7aapvnna2m74qrjt541f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
